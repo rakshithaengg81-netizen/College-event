@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.7)), url("https://images.unsplash.com/photo-1514525253161-7a46d19cd819");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: x-large;
+    background-attachment: scroll;
+}
+hr{
+    height: 2px;
+    background-color: black;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+.links a:link{
+    color: black;
+    text-align: right;
+}
+.links a:hover{
+    color:green;
+}
+.links a:visited{
+    color: blue;
+}
+.links a:focus{
+    color:brown;
+}
+#about{
+    text-align:center;
+}
+.Event{
+    text-align:center;
+}
