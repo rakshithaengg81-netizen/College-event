@@ -29,3 +29,7 @@ Open the `index.html` file in a web browser.
 ## Author
 
 College Events 2026
+
+## Working
+
+A final look of it is in 'College Event.pdf' for the links to work open index.html in web browser.
